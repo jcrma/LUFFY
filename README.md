@@ -71,7 +71,7 @@ LUFFY/
 - [ ] **luffy/deepscaler/utils.py:108** - TODO: Configure safety settings for content generation
 - [ ] **luffy/deepscaler/utils.py:109** - TODO: Set up GenerativeModel with proper system instructions
 - [ ] **luffy/deepscaler/utils.py:110** - TODO: Implement retry logic with exponential backoff
-- [ ] **luffy/deepscaler.utils.py:111** - TODO: Add comprehensive error handling for API access issues
+- [ ] **luffy/deepscaler/utils.py:111** - TODO: Add comprehensive error handling for API access issues
 - [ ] **luffy/deepscaler/utils.py:112** - TODO: Handle rate limiting and quota management
 - [ ] **luffy/deepscaler/utils.py:113** - TODO: Implement response validation and text extraction
 - [ ] **luffy/deepscaler/utils.py:114** - TODO: Add support for different generation configurations
